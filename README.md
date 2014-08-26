@@ -1,4 +1,4 @@
 Carnivores
 ==========
 
-Github repository for the Carnivores/Hunter mod
+Github repository for the Carnivores mod
